@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/116393854?v=4" width=250px align=right alt="Snack Overflow"/>
+<img src="https://avatars.githubusercontent.com/u/116393854?v=4" width=250px align=right alt="Non-Binary Code"/>
 
 # Non-Binary Code
 
