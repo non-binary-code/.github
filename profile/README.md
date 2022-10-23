@@ -12,3 +12,7 @@ Non-Binary Code was formed for Athena Hackathon October 2022 and its current mem
 
 - [Frontend](https://github.com/non-binary-code/r7-fe)
 - [Backend](https://github.com/non-binary-code/r7-be)
+
+#
+
+![Non-Binary Code](https://github.com/non-binary-code/.github/blob/main/images/non-binary-code.png)
