@@ -6,7 +6,7 @@
 
 Non-Binary Code was formed for Athena Hackathon October 2022 and its current members are [Dane Whitfield](https://github.com/danewhitfield), [Galina Ostroumova](https://github.com/ostroumova), [Jason Clifton](https://github.com/JasonClifton) [Yousef Ajdabiya](https://github.com/YousefToast) and [Zan Clifton](https://github.com/ZanClifton). Apart from Jason (the old man of the hills), every member of the team is a recent graduate of the [Northcoders Coding Bootcamp](https://northcoders.com/our-courses/coding-bootcamp).
 
-## R7: Giving Your Things Another Chance To Be Useful
+## R7: Making Zero Waste Possible
 
 ### Project Links
 
